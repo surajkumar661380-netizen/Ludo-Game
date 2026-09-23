@@ -1,0 +1,7 @@
+{
+  "name": "Ludo Master Classic",
+  "description": "Play classic 4-player Ludo board game with authentic rules, interactive dice, AI bots, safe squares, and sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
